@@ -1,0 +1,27 @@
+{
+    "services": [
+      {
+        "name": "Psychiatry Evaluations",
+        "icon": "/assets/images/psychiatry-icon.png"
+      },
+      {
+        "name": "Medication Assessment",
+        "icon": "/assets/images/assessment-icon.png"
+      },
+      {
+        "name": "Supervised Weight Loss",
+        "icon": "/assets/images/weightloss-icon.png"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "John Doe",
+        "text": "Psychiatry took a lot of the anxiety out of the process..."
+      },
+      {
+        "name": "Jane Smith",
+        "text": "Their services helped me get back on track..."
+      }
+    ]
+  }
+  
